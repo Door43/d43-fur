@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fur:home|Door43 (fur)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fur|d43-fur repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fur/archive/master.zip|d43-fur.zip]]
+
+**Recent Changes**
+{{changes>ns = fur}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fur|Ethnologue data]]
+
